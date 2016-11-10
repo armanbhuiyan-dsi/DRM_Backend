@@ -1,6 +1,6 @@
 DSi Resource Management System
 ==================================
-This is an NodeJS(expressJS) project.
+This is a NodeJS(expressJS) project.
 
 HOW TO RUN
 ========
